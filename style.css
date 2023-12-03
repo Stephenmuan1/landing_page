@@ -86,3 +86,27 @@ img {
     border: none;
     border-radius: 9px;
 }
+
+.section-2{
+    margin-bottom: 100px;
+}
+
+h2{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+    padding: 50px;
+}
+.row-of-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+
+.p-second{
+    text-align: center;
+}
+
